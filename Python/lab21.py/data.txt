@@ -1,0 +1,6 @@
+Python is a popular, high-level programming language. 
+Created by Guido van Rossum and first released in 1991.
+Known for its clean, readable syntax that closely resembles plain English.
+It allows developers to write clear and logical code with fewer lines than many other languages. 
+Python is open-source, cross-platform, and supported by a massive standard library along with thousands of third-party packages.
+Because of its versatility and beginner-friendly design.
